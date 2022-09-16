@@ -49,8 +49,8 @@
                 <br /> Git
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/bootstrap.png" width="65px"/>
-                <br /> Bootstrap
+                <img src="icons/spring-boot-ok.png" width="65px"/>
+                <br /> Spring Boot
             </td>
         </tr>
         <tr>
