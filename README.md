@@ -68,7 +68,7 @@
             </td>
         </tr>
     </table>
-    <img src="svg/Hand%20coding-bro.svg" height="200px"/>
+   <!-- <img src="svg/Hand%20coding-bro.svg" height="200px"/>-->
 </div>
 <br>
 <div>
