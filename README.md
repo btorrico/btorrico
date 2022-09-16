@@ -49,7 +49,7 @@
                 <br /> Git
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/spring-boot-ok.png" width="65px"/>
+                <img src="icons/course-image.png" width="65px"/>
                 <br /> Spring Boot
             </td>
         </tr>
