@@ -70,8 +70,9 @@
     </table>
     <img src="svg/Hand%20coding-bro.svg" height="225px"/>
 </div>
-<img align="left" src="svg/Coding-amico.svg" height="277px"/>
 <br>
-
+<div>
+<img  src="svg/Coding-amico.svg" height="260px"/>
+</div>
 
 
