@@ -32,7 +32,7 @@
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="icons/css-3.png" width="65px"/>
-                <br /> Csse
+                <br /> Css3
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="icons/java.png" width="65px"/>
